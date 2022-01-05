@@ -1,0 +1,2 @@
+# goenerics
+Golang generics examples
