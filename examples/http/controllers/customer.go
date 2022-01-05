@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"goenerics/api"
+	"github.com/piotrpersona/goenerics/examples/http/api"
 	"net/http"
 	"strings"
 	"fmt"

@@ -1,8 +1,9 @@
 package main
 
 import (
-	"goenerics/controllers"
 	"net/http"
+
+	"github.com/piotrpersona/goenerics/examples/http/controllers"
 )
 
 func main() {
